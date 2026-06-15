@@ -6,7 +6,7 @@ This project focuses on analyzing sales data to evaluate customer performance an
 
 ## Project Objective
 
-1. Create a [Customer Performance Report]()
+1. Create a [Customer Performance Report](https://github.com/Priya-12-byte/sales-report-analysis-excel/blob/main/Customer%20performance%20report.pdf)
 
 2. Conduct a comprehensive comparison between [Market Performance and Sales Targets](https://github.com/Priya-12-byte/sales-report-analysis-excel/blob/main/Market%20Performance%20vs%20Target.pdf)
 
